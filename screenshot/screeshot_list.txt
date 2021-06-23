@@ -1,0 +1,9 @@
+This lists files of screenshots:
+1. Project running on Azure App Service
+2. Project cloned into Azure Cloud Shell
+3. Passing tests that are displayed after running the make all command from the Makefile
+4. Output of a test run
+5. Successful deploy of the project in Azure Pipelines
+6. Running Azure App Service from Azure Pipelines automatic deployment
+7. Successful prediction from deployed flask app in Azure Cloud Shell.
+8. Output of streamed log files from deployed application
