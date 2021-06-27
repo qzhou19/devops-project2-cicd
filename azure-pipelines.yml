@@ -3,6 +3,8 @@
 # Change python version to one thats appropriate for your application.
 # https://docs.microsoft.com/azure/devops/pipelines/languages/python
 
+# Update 06-22-2021 Update a comment to trigger Git update
+
 trigger:
 - main
 
