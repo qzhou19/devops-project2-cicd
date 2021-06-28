@@ -14,18 +14,11 @@ https://docs.google.com/spreadsheets/d/1J4bmC-MoyyK6Ep0wxbgwQEJ-Hf8eprwv_-ZCAfd-
 
 ## Architectural Diagram (Shows how key parts of the system work)  
 
-__CI Diagram (credits to Udacity course)__
+__CI/CD Diagram (credits to Udacity course)__
 
 <div align="center">
-    <img src="/screenshot/ci-diagram.png"</img> 
+    <img src="/screenshot/cicd.png"</img> 
 </div>
-
-__CD Diagram (credits to Udacity course)__
-
-<div align="center">
-    <img src="/screenshot/cd-diagram.png"</img> 
-</div>
-
 
 ## Instructions for running the Python project :   
 __There are 8 steps below plus the locust test run and screenshot of each step end results__
@@ -107,7 +100,7 @@ After the app is running, run `locust` in the local shell with the file `locustf
 
 ## Enhancements
 
-Be more clear on instructions/requirements, it was confusing about the whole locust requiremnts as no place in the course mentioned how to use it, then the project itself, neither the readme guide in the given repo nor the instruction in the udacity course mentioned it at all. 
+For future enhancements, I would add branches to the repo for version control and reduce commits counts/show progression better. I worked on 3 places for this projects, on Githubs to update readme files with formats and upload initial project files, Azure portal to work on cloud shell and check web app service, and local shell to setup Locust for load test. For simplicity, I worked directly on main branch for each place, which causes many commits, and make it harder to track each update. For the future, I would setup 3 different branches based on fuction/place I would work on, and committ only after one specifc function is completed. 
 
 ## Demo 
 
